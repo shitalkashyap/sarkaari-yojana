@@ -6,3 +6,4 @@ sentence-transformers
 langdetect
 faiss-cpu 
 sentence-transformers
+python-dotenv
